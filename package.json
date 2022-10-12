@@ -18,7 +18,7 @@
     "node": ">=10"
   },
   "repository": {
-    "url": "https://github.com/hentis-one/token-lists",
+    "url": "https://github.com/hentis-one/token-lists.git",
     "type": "git"
   },
   "scripts": {
